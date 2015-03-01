@@ -13,6 +13,7 @@
 		772D1F4C1AA19747003A32C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 772D1F4B1AA19747003A32C2 /* Images.xcassets */; };
 		772D1F4F1AA19747003A32C2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 772D1F4D1AA19747003A32C2 /* LaunchScreen.xib */; };
 		772D1F5B1AA19747003A32C2 /* WhatsTheWeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 772D1F5A1AA19747003A32C2 /* WhatsTheWeatherTests.swift */; };
+		772D1F651AA2B42B003A32C2 /* blue-sea-horizon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 772D1F641AA2B42B003A32C2 /* blue-sea-horizon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		772D1F541AA19747003A32C2 /* WhatsTheWeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhatsTheWeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		772D1F591AA19747003A32C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		772D1F5A1AA19747003A32C2 /* WhatsTheWeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsTheWeatherTests.swift; sourceTree = "<group>"; };
+		772D1F641AA2B42B003A32C2 /* blue-sea-horizon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "blue-sea-horizon.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				772D1F441AA19747003A32C2 /* AppDelegate.swift */,
 				772D1F461AA19747003A32C2 /* ViewController.swift */,
 				772D1F481AA19747003A32C2 /* Main.storyboard */,
+				772D1F641AA2B42B003A32C2 /* blue-sea-horizon.jpg */,
 				772D1F4B1AA19747003A32C2 /* Images.xcassets */,
 				772D1F4D1AA19747003A32C2 /* LaunchScreen.xib */,
 				772D1F421AA19747003A32C2 /* Supporting Files */,
@@ -195,6 +198,7 @@
 				772D1F4A1AA19747003A32C2 /* Main.storyboard in Resources */,
 				772D1F4F1AA19747003A32C2 /* LaunchScreen.xib in Resources */,
 				772D1F4C1AA19747003A32C2 /* Images.xcassets in Resources */,
+				772D1F651AA2B42B003A32C2 /* blue-sea-horizon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
